@@ -1,6 +1,5 @@
 # Collins Wanga
 
-
 #Random Password Generator
 #Import the relevant modules
 import random
